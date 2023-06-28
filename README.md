@@ -1,6 +1,6 @@
 # Chip 8 Emulator / Virtual Machine
-![vm workflow linux](https://github.com/ColleagueRiley/c8/actions/workflows/linux.yml/badge.svg)
-![vm workflow windows](https://github.com/ColleagueRiley/c8/actions/workflows/windows.yml/badge.svg)
+![vm workflow linux](https://github.com/ColleagueRiley/c8/actions/workflows/linus.yml/badge.svg)
+![vm workflow windows](https://github.com/ColleagueRiley/c8/actions/workflows/win32.yml/badge.svg)
 
 This [Chip-8](https://en.wikipedia.org/wiki/CHIP-8) emulator is built off of an edited version of [this repo](https://github.com/scanlong/c8/)
 
