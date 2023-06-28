@@ -8,6 +8,13 @@
 #include "constant.h"
 #include "draw.h"
 
+
+
+/*
+TODO : readd scalling
+       slow down the emulator
+*/
+
 union opcode opcode;
 uint8_t memory[4096];
 uint8_t registers[16];
